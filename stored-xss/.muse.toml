@@ -1,0 +1,2 @@
+build = "mvn compile"
+jdk11 = false
